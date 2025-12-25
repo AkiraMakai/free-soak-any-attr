@@ -8,6 +8,6 @@
   "esmodules": ["scripts/main.js"],
   "relationships": { "systems": [{ "id": "swade", "type": "system" }] },
 
-  "manifest": "https://github.com/AkiraMakai/free-soak-any-attr/blob/main/module.json",
-  "download": "https://github.com/AkiraMakai/free-soak-any-attr/blob/main/free-soak-any-attr.zip"
+  "manifest": "https://raw.githubusercontent.com/AkiraMakai/free-soak-any-attr/main/module.json",
+  "download": "https://raw.githubusercontent.com/AkiraMakai/free-soak-any-attr/main/free-soak-any-attr.zip"
 }
