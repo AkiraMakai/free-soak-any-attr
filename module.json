@@ -1,12 +1,18 @@
 {
-  "id": "free-soak-any-attr",
+ "id": "free-soak-any-attr",
   "title": "Free Soak Any Attribute (SWADE House Rule)",
   "description": "SWADE: Players can Soak without Bennies and choose any Attribute for the Soak roll.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [{ "name": "MsAkira" }],
-  "compatibility": { "minimum": "13", "verified": "13" },
+  "compatibility": {
+    "minimum": "12",
+    "maximum": "12",
+    "verified": "12"
+  },
   "esmodules": ["scripts/main.js"],
-  "relationships": { "systems": [{ "id": "swade", "type": "system" }] },
+  "relationships": {
+    "systems": [{ "id": "swade", "type": "system" }]
+  },
 
   "manifest": "https://raw.githubusercontent.com/AkiraMakai/free-soak-any-attr/main/module.json",
   "download": "https://raw.githubusercontent.com/AkiraMakai/free-soak-any-attr/main/free-soak-any-attr.zip"
